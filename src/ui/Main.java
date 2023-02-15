@@ -26,4 +26,8 @@ public class Main {
         System.out.println("Bye, bye <3: ");
 
     }
+    
+    public void alfa(){
+        
+    }
 }
