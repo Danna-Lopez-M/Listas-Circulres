@@ -23,6 +23,7 @@ public class Main {
 
         System.out.println("Los valores de los nodos son: ");
         System.out.println (lista.toString());
+        System.out.println("Bye, bye <3: ");
 
     }
 }

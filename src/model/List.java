@@ -88,7 +88,7 @@ public class List{
 
     public String toString(){
         if (head==null){
-            return "The list is empty";
+            return "Empty list";
         }
         else{
             return "[" + print() + "]";
